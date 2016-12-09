@@ -6,4 +6,4 @@ Turns [hyper](https://hyper.is/) [flat](https://flatuicolors.com/).
 
 ## How to use
 
-Add `hyperflat` to `plugins` in `~/.hyper.js`.
+Add `turnhyperflat` to `plugins` in `~/.hyper.js`.
