@@ -1,9 +1,9 @@
-# hyperyellow
+# hyperflat
 
-Turns [hyper](https://hyper.is/) yellow.
+Turns [hyper](https://hyper.is/) [flat](https://flatuicolors.com/).
 
-<img src="https://cldup.com/iKSFIa2GlW.png" width=500 />
+<img src="http://i.imgur.com/8lhFONc.png" width=500 />
 
 ## How to use
 
-Add `hyperyellow` to `plugins` in `~/.hyper.js`.
+Add `hyperflat` to `plugins` in `~/.hyper.js`.
