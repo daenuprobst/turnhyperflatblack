@@ -1,4 +1,4 @@
-# hyperflat
+# turnhyperflat
 
 Turns [hyper](https://hyper.is/) [flat](https://flatuicolors.com/).
 
